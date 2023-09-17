@@ -14,5 +14,13 @@
         "Email": "okeQA5@gmail.com",
         "Password": "Password1",
         "ConfirmPassword": "Password1"
+    },
+    {
+        "Gender": "M",
+        "FirstName": "Dawit",
+        "LastName": "Ngetest",
+        "Email": "okeQA7@gmail.com",
+        "Password": "",
+        "ConfirmPassword": ""
     }
 ]

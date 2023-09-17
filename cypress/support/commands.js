@@ -21,7 +21,16 @@
     cy.get('#register-button').click()
     cy.screenshot()
     cy.get('.page-body > .buttons > .button-1').click()
-})
+});
+Cypress.Commands.add('login', (text, password, RememberMe) => {
+    cy.visit('/login')
+    cy.get('#Email').type(text)
+    cy.get('input[type="password"]').type(password)
+    cy.get('input[type="checkbox"]').check()
+    cy.get('form > .buttons > .button-1').click()
+    cy.screenshot()
+
+});
 //
 //
 // -- This is a child command --
