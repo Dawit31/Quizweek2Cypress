@@ -1,0 +1,14 @@
+{
+  "name": "quizweek2cypress",
+  "version": "1.0.0",
+  "description": "Repo untuk quiz week 2 web automation dengan cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}

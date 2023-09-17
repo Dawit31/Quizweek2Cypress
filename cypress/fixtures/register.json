@@ -1,0 +1,18 @@
+[
+    {
+        "Gender": "F",
+        "FirstName": "Dawit",
+        "LastName": "Ngetest",
+        "Email": "okeQA6@gmail.com",
+        "Password": "Password1",
+        "ConfirmPassword": "Password1"
+    },
+    {
+        "Gender": "M",
+        "FirstName": "Dawit",
+        "LastName": "Ngetest",
+        "Email": "okeQA5@gmail.com",
+        "Password": "Password1",
+        "ConfirmPassword": "Password1"
+    }
+]
