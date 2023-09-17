@@ -1,0 +1,27 @@
+[
+    {
+        "text" : "okeQA6@gmail.com",
+        "password" : "Password1",
+        "RememberMe" : "true"
+    },
+    {
+        "text" : "",
+        "password" : "Password1",
+        "RememberMe" : "true"
+    },
+    {
+        "text" : "okeQA6@gmail.com",
+        "password" : "",
+        "RememberMe" : "true"
+    },
+    {
+        "text" : "",
+        "password" : "",
+        "RememberMe" : "true"
+    },
+    {
+        "text" : "okeQA612@gmail.com",
+        "password" : "Password11",
+        "RememberMe" : "true"
+    }
+]
